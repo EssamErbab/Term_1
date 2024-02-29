@@ -1,0 +1,14 @@
+C:\Users\essam\source\repos\PROG1925\Week4Practice\Week4Practice\bin\Debug\Week4Practice.exe.config
+C:\Users\essam\source\repos\PROG1925\Week4Practice\Week4Practice\bin\Debug\Week4Practice.exe
+C:\Users\essam\source\repos\PROG1925\Week4Practice\Week4Practice\bin\Debug\Week4Practice.pdb
+C:\Users\essam\source\repos\PROG1925\Week4Practice\Week4Practice\obj\Debug\Week4Practice.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\PROG1925\Week4Practice\Week4Practice\obj\Debug\Week4Practice.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\PROG1925\Week4Practice\Week4Practice\obj\Debug\Week4Practice.exe
+C:\Users\essam\source\repos\PROG1925\Week4Practice\Week4Practice\obj\Debug\Week4Practice.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\Week4Practice\Week4Practice\bin\Debug\Week4Practice.exe.config
+C:\Users\essam\source\repos\Term_1\PROG1925\Week4Practice\Week4Practice\bin\Debug\Week4Practice.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\Week4Practice\Week4Practice\bin\Debug\Week4Practice.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\Week4Practice\Week4Practice\obj\Debug\Week4Practice.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\Week4Practice\Week4Practice\obj\Debug\Week4Practice.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\Week4Practice\Week4Practice\obj\Debug\Week4Practice.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\Week4Practice\Week4Practice\obj\Debug\Week4Practice.pdb

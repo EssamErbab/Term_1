@@ -1,0 +1,14 @@
+C:\Users\essam\source\repos\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\bin\Debug\A2ErbabETsaiCP.exe.config
+C:\Users\essam\source\repos\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\bin\Debug\A2ErbabETsaiCP.exe
+C:\Users\essam\source\repos\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\bin\Debug\A2ErbabETsaiCP.pdb
+C:\Users\essam\source\repos\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\obj\Debug\A2ErbabETsaiCP.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\obj\Debug\A2ErbabETsaiCP.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\obj\Debug\A2ErbabETsaiCP.exe
+C:\Users\essam\source\repos\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\obj\Debug\A2ErbabETsaiCP.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\bin\Debug\A2ErbabETsaiCP.exe.config
+C:\Users\essam\source\repos\Term_1\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\bin\Debug\A2ErbabETsaiCP.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\bin\Debug\A2ErbabETsaiCP.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\obj\Debug\A2ErbabETsaiCP.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\obj\Debug\A2ErbabETsaiCP.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\obj\Debug\A2ErbabETsaiCP.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\A2ErbabETsaiCP\A2ErbabETsaiCP\obj\Debug\A2ErbabETsaiCP.pdb

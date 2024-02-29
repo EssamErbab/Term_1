@@ -1,0 +1,14 @@
+C:\Users\essam\source\repos\PROG1925\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe.config
+C:\Users\essam\source\repos\PROG1925\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe
+C:\Users\essam\source\repos\PROG1925\PayCalculator\PayCalculator\bin\Debug\PayCalculator.pdb
+C:\Users\essam\source\repos\PROG1925\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\PROG1925\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\PROG1925\PayCalculator\PayCalculator\obj\Debug\PayCalculator.exe
+C:\Users\essam\source\repos\PROG1925\PayCalculator\PayCalculator\obj\Debug\PayCalculator.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe.config
+C:\Users\essam\source\repos\Term_1\PROG1925\PayCalculator\PayCalculator\bin\Debug\PayCalculator.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\PayCalculator\PayCalculator\bin\Debug\PayCalculator.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\PayCalculator\PayCalculator\obj\Debug\PayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\PayCalculator\PayCalculator\obj\Debug\PayCalculator.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\PayCalculator\PayCalculator\obj\Debug\PayCalculator.pdb

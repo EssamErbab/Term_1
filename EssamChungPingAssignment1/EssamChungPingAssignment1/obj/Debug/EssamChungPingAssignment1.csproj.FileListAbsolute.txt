@@ -1,0 +1,7 @@
+C:\Users\essam\source\repos\PROG1925\EssamChungPingAssignment1\EssamChungPingAssignment1\bin\Debug\EssamChungPingAssignment1.exe.config
+C:\Users\essam\source\repos\PROG1925\EssamChungPingAssignment1\EssamChungPingAssignment1\bin\Debug\EssamChungPingAssignment1.exe
+C:\Users\essam\source\repos\PROG1925\EssamChungPingAssignment1\EssamChungPingAssignment1\bin\Debug\EssamChungPingAssignment1.pdb
+C:\Users\essam\source\repos\PROG1925\EssamChungPingAssignment1\EssamChungPingAssignment1\obj\Debug\EssamChungPingAssignment1.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\PROG1925\EssamChungPingAssignment1\EssamChungPingAssignment1\obj\Debug\EssamChungPingAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\PROG1925\EssamChungPingAssignment1\EssamChungPingAssignment1\obj\Debug\EssamChungPingAssignment1.exe
+C:\Users\essam\source\repos\PROG1925\EssamChungPingAssignment1\EssamChungPingAssignment1\obj\Debug\EssamChungPingAssignment1.pdb

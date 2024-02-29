@@ -1,0 +1,7 @@
+C:\Users\essam\source\repos\PROG1925\A4ErbabENetsereabM\A4ErbabENetsereabM\bin\Debug\A4ErbabENetsereabM.exe.config
+C:\Users\essam\source\repos\PROG1925\A4ErbabENetsereabM\A4ErbabENetsereabM\bin\Debug\A4ErbabENetsereabM.exe
+C:\Users\essam\source\repos\PROG1925\A4ErbabENetsereabM\A4ErbabENetsereabM\bin\Debug\A4ErbabENetsereabM.pdb
+C:\Users\essam\source\repos\PROG1925\A4ErbabENetsereabM\A4ErbabENetsereabM\obj\Debug\A4ErbabENetsereabM.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\PROG1925\A4ErbabENetsereabM\A4ErbabENetsereabM\obj\Debug\A4ErbabENetsereabM.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\PROG1925\A4ErbabENetsereabM\A4ErbabENetsereabM\obj\Debug\A4ErbabENetsereabM.exe
+C:\Users\essam\source\repos\PROG1925\A4ErbabENetsereabM\A4ErbabENetsereabM\obj\Debug\A4ErbabENetsereabM.pdb

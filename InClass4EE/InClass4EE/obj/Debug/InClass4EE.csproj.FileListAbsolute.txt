@@ -1,0 +1,14 @@
+C:\Users\essam\source\repos\PROG1925\InClass4EE\InClass4EE\bin\Debug\InClass4EE.exe.config
+C:\Users\essam\source\repos\PROG1925\InClass4EE\InClass4EE\bin\Debug\InClass4EE.exe
+C:\Users\essam\source\repos\PROG1925\InClass4EE\InClass4EE\bin\Debug\InClass4EE.pdb
+C:\Users\essam\source\repos\PROG1925\InClass4EE\InClass4EE\obj\Debug\InClass4EE.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\PROG1925\InClass4EE\InClass4EE\obj\Debug\InClass4EE.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\PROG1925\InClass4EE\InClass4EE\obj\Debug\InClass4EE.exe
+C:\Users\essam\source\repos\PROG1925\InClass4EE\InClass4EE\obj\Debug\InClass4EE.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\InClass4EE\InClass4EE\bin\Debug\InClass4EE.exe.config
+C:\Users\essam\source\repos\Term_1\PROG1925\InClass4EE\InClass4EE\bin\Debug\InClass4EE.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\InClass4EE\InClass4EE\bin\Debug\InClass4EE.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\InClass4EE\InClass4EE\obj\Debug\InClass4EE.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\InClass4EE\InClass4EE\obj\Debug\InClass4EE.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\InClass4EE\InClass4EE\obj\Debug\InClass4EE.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\InClass4EE\InClass4EE\obj\Debug\InClass4EE.pdb

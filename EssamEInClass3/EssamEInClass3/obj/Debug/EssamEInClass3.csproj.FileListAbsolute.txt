@@ -1,0 +1,14 @@
+C:\Users\essam\source\repos\PROG1925\EssamEInClass3\EssamEInClass3\bin\Debug\EssamEInClass3.exe.config
+C:\Users\essam\source\repos\PROG1925\EssamEInClass3\EssamEInClass3\bin\Debug\EssamEInClass3.exe
+C:\Users\essam\source\repos\PROG1925\EssamEInClass3\EssamEInClass3\bin\Debug\EssamEInClass3.pdb
+C:\Users\essam\source\repos\PROG1925\EssamEInClass3\EssamEInClass3\obj\Debug\EssamEInClass3.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\PROG1925\EssamEInClass3\EssamEInClass3\obj\Debug\EssamEInClass3.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\PROG1925\EssamEInClass3\EssamEInClass3\obj\Debug\EssamEInClass3.exe
+C:\Users\essam\source\repos\PROG1925\EssamEInClass3\EssamEInClass3\obj\Debug\EssamEInClass3.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\EssamEInClass3\EssamEInClass3\bin\Debug\EssamEInClass3.exe.config
+C:\Users\essam\source\repos\Term_1\PROG1925\EssamEInClass3\EssamEInClass3\bin\Debug\EssamEInClass3.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\EssamEInClass3\EssamEInClass3\bin\Debug\EssamEInClass3.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\EssamEInClass3\EssamEInClass3\obj\Debug\EssamEInClass3.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\EssamEInClass3\EssamEInClass3\obj\Debug\EssamEInClass3.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\EssamEInClass3\EssamEInClass3\obj\Debug\EssamEInClass3.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\EssamEInClass3\EssamEInClass3\obj\Debug\EssamEInClass3.pdb

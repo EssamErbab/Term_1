@@ -1,0 +1,14 @@
+C:\Users\essam\source\repos\PROG1925\VariablesAndMath\VariablesAndMath\bin\Debug\VariablesAndMath.exe.config
+C:\Users\essam\source\repos\PROG1925\VariablesAndMath\VariablesAndMath\bin\Debug\VariablesAndMath.exe
+C:\Users\essam\source\repos\PROG1925\VariablesAndMath\VariablesAndMath\bin\Debug\VariablesAndMath.pdb
+C:\Users\essam\source\repos\PROG1925\VariablesAndMath\VariablesAndMath\obj\Debug\VariablesAndMath.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\PROG1925\VariablesAndMath\VariablesAndMath\obj\Debug\VariablesAndMath.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\PROG1925\VariablesAndMath\VariablesAndMath\obj\Debug\VariablesAndMath.exe
+C:\Users\essam\source\repos\PROG1925\VariablesAndMath\VariablesAndMath\obj\Debug\VariablesAndMath.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\VariablesAndMath\VariablesAndMath\obj\Debug\VariablesAndMath.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\VariablesAndMath\VariablesAndMath\obj\Debug\VariablesAndMath.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\VariablesAndMath\VariablesAndMath\obj\Debug\VariablesAndMath.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\VariablesAndMath\VariablesAndMath\obj\Debug\VariablesAndMath.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\VariablesAndMath\VariablesAndMath\bin\Debug\VariablesAndMath.exe.config
+C:\Users\essam\source\repos\Term_1\PROG1925\VariablesAndMath\VariablesAndMath\bin\Debug\VariablesAndMath.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\VariablesAndMath\VariablesAndMath\bin\Debug\VariablesAndMath.pdb

@@ -1,0 +1,7 @@
+C:\Users\essam\source\repos\PROG1925\A5ErbabENetsereabM\A5ErbabENetsereabM\bin\Debug\A5ErbabENetsereabM.exe.config
+C:\Users\essam\source\repos\PROG1925\A5ErbabENetsereabM\A5ErbabENetsereabM\bin\Debug\A5ErbabENetsereabM.exe
+C:\Users\essam\source\repos\PROG1925\A5ErbabENetsereabM\A5ErbabENetsereabM\bin\Debug\A5ErbabENetsereabM.pdb
+C:\Users\essam\source\repos\PROG1925\A5ErbabENetsereabM\A5ErbabENetsereabM\obj\Debug\A5ErbabENetsereabM.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\PROG1925\A5ErbabENetsereabM\A5ErbabENetsereabM\obj\Debug\A5ErbabENetsereabM.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\PROG1925\A5ErbabENetsereabM\A5ErbabENetsereabM\obj\Debug\A5ErbabENetsereabM.exe
+C:\Users\essam\source\repos\PROG1925\A5ErbabENetsereabM\A5ErbabENetsereabM\obj\Debug\A5ErbabENetsereabM.pdb

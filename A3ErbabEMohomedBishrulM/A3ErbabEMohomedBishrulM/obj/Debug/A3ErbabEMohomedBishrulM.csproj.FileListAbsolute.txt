@@ -1,0 +1,14 @@
+C:\Users\essam\source\repos\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\bin\Debug\A3ErbabEMohomedBishrulM.exe.config
+C:\Users\essam\source\repos\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\bin\Debug\A3ErbabEMohomedBishrulM.exe
+C:\Users\essam\source\repos\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\bin\Debug\A3ErbabEMohomedBishrulM.pdb
+C:\Users\essam\source\repos\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\obj\Debug\A3ErbabEMohomedBishrulM.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\obj\Debug\A3ErbabEMohomedBishrulM.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\obj\Debug\A3ErbabEMohomedBishrulM.exe
+C:\Users\essam\source\repos\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\obj\Debug\A3ErbabEMohomedBishrulM.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\bin\Debug\A3ErbabEMohomedBishrulM.exe.config
+C:\Users\essam\source\repos\Term_1\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\bin\Debug\A3ErbabEMohomedBishrulM.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\bin\Debug\A3ErbabEMohomedBishrulM.pdb
+C:\Users\essam\source\repos\Term_1\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\obj\Debug\A3ErbabEMohomedBishrulM.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\obj\Debug\A3ErbabEMohomedBishrulM.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\Term_1\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\obj\Debug\A3ErbabEMohomedBishrulM.exe
+C:\Users\essam\source\repos\Term_1\PROG1925\A3ErbabEMohomedBishrulM\A3ErbabEMohomedBishrulM\obj\Debug\A3ErbabEMohomedBishrulM.pdb

@@ -1,0 +1,7 @@
+C:\Users\essam\source\repos\PROG1925\InClass5EE\InClass5EE\bin\Debug\InClass5EE.exe.config
+C:\Users\essam\source\repos\PROG1925\InClass5EE\InClass5EE\bin\Debug\InClass5EE.exe
+C:\Users\essam\source\repos\PROG1925\InClass5EE\InClass5EE\bin\Debug\InClass5EE.pdb
+C:\Users\essam\source\repos\PROG1925\InClass5EE\InClass5EE\obj\Debug\InClass5EE.csproj.AssemblyReference.cache
+C:\Users\essam\source\repos\PROG1925\InClass5EE\InClass5EE\obj\Debug\InClass5EE.csproj.CoreCompileInputs.cache
+C:\Users\essam\source\repos\PROG1925\InClass5EE\InClass5EE\obj\Debug\InClass5EE.exe
+C:\Users\essam\source\repos\PROG1925\InClass5EE\InClass5EE\obj\Debug\InClass5EE.pdb
